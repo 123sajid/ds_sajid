@@ -1,6 +1,5 @@
 # 📊 Data Science Assignment – Web3 Trading Team
 
-## 👤 Candidate: Sajid
 
 Welcome! This repository contains my submission for the Web3 Trading Team's Data Science assignment. The goal was to analyze the relationship between trader behavior and Bitcoin market sentiment using historical datasets.
 
@@ -8,7 +7,7 @@ Welcome! This repository contains my submission for the Web3 Trading Team's Data
 
 ## 🗂 Folder Structure
 
-ds_sajid/
+ds_name/
 ├── notebook_1.ipynb # Main Colab notebook with full analysis
 ├── csv_files/ # Intermediate or processed CSVs
 │ └── merged_data.csv
@@ -40,7 +39,7 @@ To explore how trading behavior (profitability, leverage, volume, direction) ali
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - **Profitability**: Trades during Greed periods had higher volatility; Fear trades were more controlled.
 - **Volume**: Higher during Fear — potentially due to stop-losses or emotional trading.
@@ -54,7 +53,7 @@ All insights are supported by visualizations and data exploration inside the not
 ## 🔧 How to Run
 
 1. Open `notebook_1.ipynb` via Google Colab  
-   [👉 Click to open](https://colab.research.google.com/drive/1EjpFFoy5MgHb3zHnyTeZNjIDMBLPqm4G?usp=sharing)
+   [ Click to open](https://colab.research.google.com/drive/1EjpFFoy5MgHb3zHnyTeZNjIDMBLPqm4G?usp=sharing)
 
 2. Datasets are automatically loaded from shared Drive or local folder.
 
@@ -79,22 +78,14 @@ The final summarized analysis is available in [`ds_report.pdf`](./ds_report.pdf)
 ## 🔗 Links
 
 - 🔬 Google Colab Notebook: [View Notebook](https://colab.research.google.com/drive/1EjpFFoy5MgHb3zHnyTeZNjIDMBLPqm4G?usp=sharing)
-- 📦 GitHub Repository: [https://github.com/yourusername/ds_sajid](https://github.com/yourusername/ds_sajid)
+- 📦 GitHub Repository: https://github.com/123sajid/ds_sajid
 
 ---
 
-## ✅ Submission Complies With
+##  Submission Complies With
 
-- Folder naming and structure ✅  
-- Colab notebook access set to **Anyone with the link can view** ✅  
-- Report in PDF format ✅  
-- GitHub repository updated ✅  
-
----
-
-## 🙏 Acknowledgements
-
-Thanks to the Web3 Trading Team for this opportunity to showcase applied data science skills in a trading context.
-
----
+- Folder naming and structure   
+- Colab notebook access set to  
+- Report in PDF format 
+- GitHub repository updated   
 
